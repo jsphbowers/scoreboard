@@ -1,0 +1,30 @@
+.bg-arena {
+  background-image: url("https://images.unsplash.com/photo-1543351611-58f69d7c1781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZpZmElMjBhcmVuYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+  background-position: center;
+  background-size: cover;
+}
+
+.scoreboard {
+  background-color: #a50044;
+  border-radius: 5%;
+  border: 10px solid #edbb00;
+}
+
+.barcYellow {
+  color: #ffed02;
+}
+
+.barcBlue {
+  color: #004d98;
+  text-shadow: 1px 1px 2px;
+}
+
+.homeButton {
+  background-color: #a50044;
+  border: 2px solid #004d98;
+}
+
+.awayButton {
+  background-color: #004d98;
+  border: 2px solid #a50044;
+}
